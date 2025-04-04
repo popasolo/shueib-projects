@@ -89,7 +89,7 @@ h2 {
 /* Home Section */
 #home {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("why-corporate-hospitals-are-changing-hands-in-india-.webp");
+    url("./code/why-corporate-hospitals-are-changing-hands-in-india-.webp");
   background-size: cover;
   background-position: center;
   height: 100vh;
